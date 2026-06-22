@@ -66,6 +66,4 @@ To send this board to a manufacturer (e.g., JLCPCB, PCBWay, OSH Park):
 
 Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](../../issues) if you want to contribute.
 
-## License
 
-*(Specify your license here, e.g., MIT, GPL-3.0, or CERN-OHL-W for hardware projects. If proprietary, state "All rights reserved.")*
